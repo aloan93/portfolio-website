@@ -28,7 +28,7 @@
 .aboutImage {
   width: 350px;
   max-width: 30%;
-  border-radius: 100%;
+  margin-top: 8px;
 }
 
 .aboutItems {
