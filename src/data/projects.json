@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Northcoders News",
+    "imageSrc": "projects/nc-news.png",
+    "description": "A news article web application where users can browse a whole host of articles and view each in isolation. Articles come with a functional comments section as well as functional up and down voting. The backend API showcases a variety of endpoints, including GET, POST, PATCH and DELETE. This was a solo portfolio project and my first time building an API and associated frontend from scratch.",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "ReactJS",
+      "ExpressJS",
+      "REST",
+      "PostgreSQL"
+    ],
+    "demo": "https://fe-northcoders-news.netlify.app/articles",
+    "frontend": "https://github.com/aloan93/fe-northcoders-news",
+    "backend": "https://github.com/aloan93/be-northcoders-news"
+  },
+  {
+    "title": "1 Percent Better",
+    "imageSrc": "projects/1-percent-better.png",
+    "description": "A performance tracker for users to log their progress for strength exercises. Users can track their own workout sessions as well as weight, reps and sets for each exercise. The app solves the problem of uncertainty in new gym goers by introducing users to a wealth of exercises along with how to safely perform them. We pulled in exercise information and graphics from an external API, and built our own API to handle user data and authentication.",
+    "skills": [
+      "Python",
+      "Django",
+      "GraphQL",
+      "MySQL",
+      "React Native",
+      "JavaScript"
+    ],
+    "demo": "https://youtu.be/brW00Qv_fKg",
+    "frontend": "https://github.com/aloan93/fe-1-percent-better",
+    "backend": "https://github.com/aloan93/be-1-percent-better"
+  },
+  {
+    "title": "PokeDraft (WIP)",
+    "imageSrc": "projects/pokedraft.png",
+    "description": "A web application to allow members of the Pokemon video-gaming community to host and manage grassroots draft tournaments. The backend repository makes use of Docker containers to run the MySQL database and Adminer",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "ReactJS",
+      "ExpressJS",
+      "REST",
+      "MySQL",
+      "Docker"
+    ],
+    "demo": "",
+    "frontend": "https://github.com/aloan93/fe-pokedraft",
+    "backend": "https://github.com/aloan93/be-pokedraft_v2"
+  },
+  {
+    "title": "Attack of the Grayliens",
+    "imageSrc": "projects/attack-of-the-graylians.png",
+    "description": "A game created as part of a two week game jam with the theme of “it’s spreading”. Gameplay consists of a single level where the player must survive waves of enemies for five minutes, then defeat the boss that appears; all whilst returning colour to a grayscale world via paint based weapons. The team consists of two programmers (myself included as Saltcannon5K), two artists and one musician/marketer. The team worked in accordance with agile methodologies with kanban boarding, pair programming and daily stand-ups.",
+    "skills": [
+      "Godot",
+      "GDScript",
+      "Aseprite",
+      "Audacity",
+      "Ableton Live Standard"
+    ],
+    "demo": "https://kajitsuken.itch.io/grayliens",
+    "frontend": "",
+    "backend": ""
+  }
+]
