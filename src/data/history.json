@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Trainee Software Developer",
+    "organisation": "Northcoders",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Trained in full-stack web development with JavaScript",
+      "Worked in conjuction with Agile methodologies and TDD"
+    ],
+    "imageSrc": "history/northcoders.png"
+  },
+  {
+    "role": "Technical Recruitment Consultant",
+    "organisation": "Jefferson Frank",
+    "startDate": "May, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Specialist in development recruitment with the UK & Ireland",
+      "Hosted multiple North-East AWS user groups"
+    ],
+    "imageSrc": "history/jefferson-frank.png"
+  },
+  {
+    "role": "Retail Sales Adviser",
+    "organisation": "Vodafone",
+    "startDate": "Jul, 2016",
+    "endDate": "May, 2022",
+    "experiences": [],
+    "imageSrc": "history/vodafone.png"
+  }
+]
