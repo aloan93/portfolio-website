@@ -11,7 +11,8 @@
       "REST",
       "PostgreSQL"
     ],
-    "demo": "https://fe-northcoders-news.netlify.app/articles",
+    "host": "https://fe-northcoders-news.netlify.app/articles",
+    "demo": "",
     "frontend": "https://github.com/aloan93/fe-northcoders-news",
     "backend": "https://github.com/aloan93/be-northcoders-news"
   },
@@ -27,6 +28,7 @@
       "React Native",
       "JavaScript"
     ],
+    "host": "",
     "demo": "https://youtu.be/brW00Qv_fKg",
     "frontend": "https://github.com/aloan93/fe-1-percent-better",
     "backend": "https://github.com/aloan93/be-1-percent-better"
@@ -44,6 +46,7 @@
       "MySQL",
       "Docker"
     ],
+    "host": "",
     "demo": "",
     "frontend": "https://github.com/aloan93/fe-pokedraft",
     "backend": "https://github.com/aloan93/be-pokedraft_v2"
@@ -59,7 +62,8 @@
       "Audacity",
       "Ableton Live Standard"
     ],
-    "demo": "https://kajitsuken.itch.io/grayliens",
+    "host": "https://kajitsuken.itch.io/grayliens",
+    "demo": "https://youtu.be/CR1IYdeMxUQ",
     "frontend": "",
     "backend": ""
   }

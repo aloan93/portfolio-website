@@ -21,18 +21,39 @@ export default function ProjectCard({ project }) {
         })}
       </ul>
       <div className={styles.links}>
+        {project.host ? (
+          <a
+            href={project.host}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer">
+            Host
+          </a>
+        ) : null}
         {project.demo ? (
-          <a href={project.demo} className={styles.link}>
+          <a
+            href={project.demo}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer">
             Demo
           </a>
         ) : null}
         {project.frontend ? (
-          <a href={project.frontend} className={styles.link}>
+          <a
+            href={project.frontend}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer">
             FE Repo
           </a>
         ) : null}
         {project.backend ? (
-          <a href={project.backend} className={styles.link}>
+          <a
+            href={project.backend}
+            className={styles.link}
+            target="_blank"
+            rel="noopener noreferrer">
             BE Repo
           </a>
         ) : null}
