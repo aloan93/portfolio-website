@@ -8,7 +8,7 @@ export default function Navbar() {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
+      <a className={styles.title} href="/portfolio-website/">
         Portfolio
       </a>
       <div className={styles.menu}>
