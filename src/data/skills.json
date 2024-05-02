@@ -1,0 +1,66 @@
+[
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "skills/reactjs.png"
+  },
+  {
+    "title": "HTML5",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "VScode",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "Insomnia",
+    "imageSrc": "skills/insomnia.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  }
+]
