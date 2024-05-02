@@ -7,16 +7,16 @@ export default function Hero() {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Andrew</h1>
         <p className={styles.description}>
-          I'm a junior full-stack developer and Northcoders graduate experienced
-          in React, NodeJS, Python and C#. Reach out if you'd like to learn
-          more!
+          I'm a junior full-stack developer, career switcher & Northcoders
+          graduate experienced in React, NodeJS, Python and C#. Reach out if
+          you'd like to learn more!
         </p>
         <a href="mailto:a.loan93@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/profile.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
