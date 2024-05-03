@@ -9,10 +9,13 @@
   padding: 18px 24px;
   width: 450px;
   max-width: 90vw;
+  height: 1100px;
 }
 
 .image {
   margin-bottom: 26px;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
 .title {
@@ -28,7 +31,8 @@
 
 .skills {
   width: 100%;
-  margin-top: 14px;
+  /* margin-top: 14px; */
+  margin-top: auto;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -58,8 +62,24 @@
   text-decoration: none;
   color: var(--colour-text);
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 500;
   border-radius: 100px;
   background: var(--colour-primary);
-  padding: 1px 22px;
+  padding: 1px 22px 4px 22px;
+  transition: all 0.5s ease;
+}
+
+.link:hover {
+  background: var(--colour-text);
+  color: #001f3f;
+}
+
+@media screen and (max-width: 1143px) {
+  .container {
+    height: auto;
+  }
+
+  .skills {
+    margin-top: 24px;
+  }
 }
