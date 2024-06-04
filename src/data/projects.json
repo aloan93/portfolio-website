@@ -36,7 +36,7 @@
   {
     "title": "PokeDraft (WIP)",
     "imageSrc": "projects/pokedraft.png",
-    "description": "A web application to allow members of the Pokemon video-gaming community to host and manage grassroots draft tournaments. The backend repository makes use of Docker containers to run the MySQL database and Adminer",
+    "description": "A personal project - A web application to allow members of the Pokemon video-gaming community to host and manage grassroots draft tournaments. The backend repository makes use of Docker containers to run the MySQL database and Adminer",
     "skills": [
       "JavaScript",
       "NodeJS",
@@ -50,6 +50,16 @@
     "demo": "",
     "frontend": "https://github.com/aloan93/fe-pokedraft",
     "backend": "https://github.com/aloan93/be-pokedraft_v2"
+  },
+  {
+    "title": "Exhibition Curator (WIP)",
+    "imageSrc": "projects/comingSoon.png",
+    "description": "A paid freelance project - A web application that allows users to browse antiquities & fine arts from public collections and curate their own virtual exhibitions. The application currently integrates collections from the 'Metropolitan Museum of Art' and the 'Cleveland Museum of Art' via open access APIs. The initial version of the project has virtual exhibitions persist for the user's session only and so is developed entirely in the front end. This was my first project using Typescript",
+    "skills": ["Typescript", "ReactJS"],
+    "host": "",
+    "demo": "",
+    "frontend": "https://github.com/aloan93/fe-exhibition-curator",
+    "backend": ""
   },
   {
     "title": "Attack of the Grayliens",
