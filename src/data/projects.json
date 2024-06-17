@@ -1,20 +1,13 @@
 [
   {
-    "title": "Northcoders News",
-    "imageSrc": "projects/nc-news.png",
-    "description": "A news article web application where users can browse a whole host of articles and view each in isolation. Articles come with a functional comments section as well as functional up and down voting. The backend API showcases a variety of endpoints, including GET, POST, PATCH and DELETE. This was a solo portfolio project and my first time building an API and associated frontend from scratch.",
-    "skills": [
-      "JavaScript",
-      "NodeJS",
-      "ReactJS",
-      "ExpressJS",
-      "REST",
-      "PostgreSQL"
-    ],
-    "host": "https://fe-northcoders-news.netlify.app/articles",
+    "title": "Exhibition Curator",
+    "imageSrc": "projects/exhibition-curator.PNG",
+    "description": "A paid freelance project - A web application that allows users to browse antiquities & fine arts from public collections and curate their own virtual exhibitions. The application currently integrates collections from the 'Metropolitan Museum of Art' and the 'Cleveland Museum of Art' via open access APIs. The initial version of the project has virtual exhibitions persist for the user's session only and so is developed entirely in the front end. This was my first project using Typescript",
+    "skills": ["Typescript", "ReactJS", "Supabase"],
+    "host": "https://aloan93-exhibitioncurator.netlify.app/",
     "demo": "",
-    "frontend": "https://github.com/aloan93/fe-northcoders-news",
-    "backend": "https://github.com/aloan93/be-northcoders-news"
+    "frontend": "https://github.com/aloan93/fe-exhibition-curator",
+    "backend": ""
   },
   {
     "title": "1 Percent Better",
@@ -34,6 +27,23 @@
     "backend": "https://github.com/aloan93/be-1-percent-better"
   },
   {
+    "title": "Northcoders News",
+    "imageSrc": "projects/nc-news.png",
+    "description": "A news article web application where users can browse a whole host of articles and view each in isolation. Articles come with a functional comments section as well as functional up and down voting. The backend API showcases a variety of endpoints, including GET, POST, PATCH and DELETE. This was a solo portfolio project and my first time building an API and associated frontend from scratch.",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "ReactJS",
+      "ExpressJS",
+      "REST",
+      "PostgreSQL"
+    ],
+    "host": "https://fe-northcoders-news.netlify.app/articles",
+    "demo": "",
+    "frontend": "https://github.com/aloan93/fe-northcoders-news",
+    "backend": "https://github.com/aloan93/be-northcoders-news"
+  },
+  {
     "title": "PokeDraft (WIP)",
     "imageSrc": "projects/pokedraft.png",
     "description": "A personal project - A web application to allow members of the Pokemon video-gaming community to host and manage grassroots draft tournaments. The backend repository makes use of Docker containers to run the MySQL database and Adminer",
@@ -50,16 +60,6 @@
     "demo": "",
     "frontend": "https://github.com/aloan93/fe-pokedraft",
     "backend": "https://github.com/aloan93/be-pokedraft_v2"
-  },
-  {
-    "title": "Exhibition Curator (WIP)",
-    "imageSrc": "projects/comingSoon.png",
-    "description": "A paid freelance project - A web application that allows users to browse antiquities & fine arts from public collections and curate their own virtual exhibitions. The application currently integrates collections from the 'Metropolitan Museum of Art' and the 'Cleveland Museum of Art' via open access APIs. The initial version of the project has virtual exhibitions persist for the user's session only and so is developed entirely in the front end. This was my first project using Typescript",
-    "skills": ["Typescript", "ReactJS"],
-    "host": "",
-    "demo": "",
-    "frontend": "https://github.com/aloan93/fe-exhibition-curator",
-    "backend": ""
   },
   {
     "title": "Attack of the Grayliens",
