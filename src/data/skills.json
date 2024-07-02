@@ -66,5 +66,9 @@
   {
     "title": "Docker",
     "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
   }
 ]

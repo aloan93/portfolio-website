@@ -1,13 +1,13 @@
 [
   {
-    "role": "Software Developer",
-    "organisation": "Freelance",
+    "role": "Freelance Project Consultant",
+    "organisation": "Tech Returners",
     "startDate": "May, 2024",
-    "endDate": "Present",
+    "endDate": "June 2024",
     "experiences": [
-      "Contracted to develop the 'Exhibition Curator' web application using Typescript & React"
+      "Working as a freelance consultant to deliver a bespoke 'Exhibition Curator' product for internal development, as part of the Launchpad project"
     ],
-    "imageSrc": "history/saltcaDMAX.png"
+    "imageSrc": "history/tech-returners.jpg"
   },
   {
     "role": "Trainee Software Developer",
